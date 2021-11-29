@@ -1,0 +1,11 @@
+LogReg,LinSVC,RFsingle,RFmdiOrig,RFmdi01,RFmdiGauss,PIOrig,PI01,PIGauss
+sensor8,sensor8,sensor8,sensor8,sensor8,sensor8,sensor6,sensor6,sensor6
+sensor4,sensor4,sensor4,sensor6,sensor6,sensor6,sensor8,sensor8,sensor8
+sensor0,sensor0,sensor6,sensor4,sensor4,sensor4,sensor0,sensor4,sensor4
+sensor3,sensor3,sensor0,sensor0,sensor0,sensor0,sensor4,sensor0,sensor0
+sensor7,sensor7,sensor2,sensor2,sensor3,sensor2,sensor2,sensor2,sensor2
+sensor1,sensor9,sensor3,sensor3,sensor2,sensor3,sensor9,sensor9,sensor9
+sensor9,sensor1,sensor1,sensor1,sensor1,sensor1,sensor7,sensor7,sensor7
+sensor2,sensor2,sensor5,sensor9,sensor9,sensor5,sensor5,sensor5,sensor5
+sensor5,sensor5,sensor9,sensor7,sensor5,sensor7,sensor3,sensor3,sensor3
+sensor6,sensor6,sensor7,sensor5,sensor7,sensor9,sensor1,sensor1,sensor1
